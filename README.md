@@ -1,1 +1,1 @@
-# Vollyball_Project
+# Hierarchical Deep Temporal Model for Group Activity Recognition
